@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="splash_text">LOGIN DEMO</string>
+    <string name="password_error_msz">Password not meeting the criteria</string>
+
+    <string name="LOGIN">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+</resources>
